@@ -1,6 +1,6 @@
 # webpack playground
 
-- [ ] Webpack
+- [x] Webpack
 - [ ] Webpack and babel
 - [ ] Webpack and typescript
 - [ ] Spa app
