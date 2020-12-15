@@ -1,7 +1,7 @@
 # webpack playground
 
 - [x] Webpack
+- [x] Webpack and typescript
 - [ ] Webpack and babel
-- [ ] Webpack and typescript
-- [ ] Spa app
 - [ ] Turbolinks app
+- [ ] Spa app
