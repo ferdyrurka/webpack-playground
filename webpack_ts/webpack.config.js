@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
     mode: "development",
     devtool: "inline-source-map",
-    entry: "./src/blogSDK.ts",
+    entry: "./src/BlogSDK.ts",
     output: {
         filename: 'blog_sdk.js',
         path: path.resolve(__dirname, 'dist'),
