@@ -2,6 +2,4 @@
 
 - [x] Webpack
 - [x] Webpack and typescript
-- [ ] Webpack and babel
-- [ ] Turbolinks app
-- [ ] Spa app
+- [x] Webpack and babel
